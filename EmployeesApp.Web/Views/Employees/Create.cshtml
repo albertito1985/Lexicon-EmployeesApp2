@@ -1,14 +1,8 @@
-﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model EmployeesApp.Web.Models.Employee
+﻿ @model EmployeesApp.Web.Models.Employee
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Create Employee</title>
-    <link rel="stylesheet" href="https://unpkg.com/@@picocss/pico@@latest/css/pico.classless.min.css">
-</head>
-<body style="margin: 50px;">
-    <h2>Create Employee</h2>
+@{
+    ViewBag.Title = "Create Employees";
+}
 
     <form asp-controller="Employees" asp-action="Create" style="width: 300px;">
         <label asp-for="Name"></label>
@@ -22,5 +16,3 @@
         <input type="submit" value="Save" />
     </form>
     <div asp-validation-summary="All"></div>
-</body>
-</html>
