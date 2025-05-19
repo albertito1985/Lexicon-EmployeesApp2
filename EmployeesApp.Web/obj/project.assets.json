@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SerGo\\.nuget\\packages\\": {},
+    "C:\\Users\\Shin-chang\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SerGo\\source\\repos\\Lexicon-EmployeesApp2\\EmployeesApp.Web\\EmployeesApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesApp\\EmployeesApp.Web\\EmployeesApp.Web.csproj",
       "projectName": "EmployeesApp.Web",
-      "projectPath": "C:\\Users\\SerGo\\source\\repos\\Lexicon-EmployeesApp2\\EmployeesApp.Web\\EmployeesApp.Web.csproj",
-      "packagesPath": "C:\\Users\\SerGo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SerGo\\source\\repos\\Lexicon-EmployeesApp2\\EmployeesApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesApp\\EmployeesApp.Web\\EmployeesApp.Web.csproj",
+      "packagesPath": "C:\\Users\\Shin-chang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesApp\\EmployeesApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SerGo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Shin-chang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Lexicon utbildning\\LocalNugets": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
