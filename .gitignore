@@ -4,6 +4,8 @@
 
 /.gitattributes
 .vs/
+bin/
+obj/
 /EmployeesApp.Web/obj/Debug/net9.0/EmployeesApp.Web.AssemblyInfo.cs
 /EmployeesApp.Web/obj/Debug/net9.0/EmployeesApp.Web.AssemblyInfoInputs.cache
 /EmployeesApp.Web/obj/Debug/net9.0/EmployeesApp.Web.assets.cache
